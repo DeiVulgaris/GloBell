@@ -1,0 +1,31 @@
+# GloBell — Starting Niches
+
+**Version:** 0.1  
+**Status:** Concept / Potential Launch Strategy
+
+---
+
+## 1. Why Starting Niches Matter
+
+The first users are the hardest users to acquire for a location-based network.
+
+A new network has an obvious problem:
+
+> There is little value in joining a network in which nobody is present yet.
+
+GloBell should therefore avoid starting with the entire world.
+
+The initial objective is to enter an environment where a meaningful social network already exists and where people already have recurring needs connected with location.
+
+The principle is:
+
+```text
+Existing community
+        ↓
+Existing trust
+        ↓
+Existing local needs
+        ↓
+GloBell
+        ↓
+First active network
